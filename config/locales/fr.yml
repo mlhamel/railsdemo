@@ -1,0 +1,29 @@
+fr:
+
+  number:
+    currency:
+      format:
+        unit:      "$US"
+        precision: 2
+        separator: ","
+        delimiter: "."
+        format:    "%n&nbsp;%u"
+
+  carts:
+    cart:
+      title:       "Votre panier"
+      empty:       "Vider votre panier"
+      checkout:    "Paiement"
+
+  store:
+    index:
+      title_html:  "Votre catalogue pragmatique"
+      add_html:    "Ajouter à votre panier"
+
+  layouts:
+    application:
+      title:       "Éditeur Pragmatique"
+      home:        "Accueil"
+      questions:   "Questions"
+      news:        "Nouvelles"
+      contact:     "Contact"
