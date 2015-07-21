@@ -1,5 +1,28 @@
 fr:
 
+  thanks:          "Merci pour votre commande"
+
+  activerecord:
+    models:
+      order:       "commande"
+    attributes:
+      order:
+        address:   "adresse"
+        name:      "Nom"
+        email:     "Courriel"
+        pay_type:  "Type de paiement"
+
+  orders:
+    new:
+      legend:      "Veuillez entrer vos informations"
+    form:
+      name:        "Nom"
+      address:     "Adresse"
+      email:       "Courriel"
+      pay_type:    "Payer avec"
+      pay_prompt_html: "Veuillez choisir une méthode de paiement"
+      submit:      "Placer la commande"
+
   number:
     currency:
       format:
